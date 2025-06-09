@@ -1,2 +1,2 @@
 # Copula
-Using Copula to optimize Portfolio
+Using Copula to optimize Portfolio and calculate portfolio VaR
